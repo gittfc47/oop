@@ -1,0 +1,25 @@
+﻿A-Class,Mercedes-Benz,2022 2021
+A3,Audi,2023 2022
+A4,Audi,2023 2022 2021
+A4 allroad,Audi,2023 2022 2021
+A5,Audi,2023 2022 2021
+A6,Audi,2023 2022 2021
+A6 allroad,Audi,2023 2022 2021
+A7,Audi,2023 2022 2021
+A8,Audi,2023 2022 2021
+Acadia,GMC,2023 2022 2021
+Accent,Hyundai,2022 2021
+Accord,Honda,2023 2022 2021
+Accord Hybrid,Honda,2022 2021
+Air,Lucid,2022
+Altima,Nissan,2023 2022 2021
+Ariya,Nissan,2023
+Armada,Nissan,2023 2022 2021
+Arteon,Volkswagen,2023 2022 2021
+Ascent,Subaru,2023 2022 2021
+Atlas,Volkswagen,2023 2022 2021
+Atlas Cross Sport,Volkswagen,2023 2022 2021
+Avalon,Toyota,2022 2021
+Avalon Hybrid,Toyota,2022, 2021
+Aventador,Lamborghini,2022 2021
+Aviator,Lincoln,2023 2022 2021
